@@ -2,7 +2,9 @@ This is a demo that showcases using CopilotKit to build a voice driven PowerPoin
 
 ## Run the live demo
 
-[![Run the live demo](./public/run-demo-cta.png)](https://presentation-demo-mu.vercel.app)
+<a href="https://presentation-demo-mu.vercel.app">
+  <img src="./public/run-demo-cta.png" alt="Run the live demo" width="200px">
+</a>
 
 ## Deploy with Vercel
 
