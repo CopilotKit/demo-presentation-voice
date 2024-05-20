@@ -18,6 +18,12 @@ To deploy with Vercel, click the button below:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCopilotKit%2Fpresentation-demo&env=NEXT_PUBLIC_COPILOT_CLOUD_API_KEY,TAVILY_API_KEY,OPENAI_API_KEY&envDescription=By%20setting%20the%20TAVILY_API_KEY%2C%20you%20control%20whether%20the%20web%20search%20capabilities%20are%20enabled.%20Set%20it%20to%20NONE%20to%20disable%20this%20feature.%20To%20use%20TTS%2C%20set%20OPENAI_API%20key%2C%20otherwise%20set%20it%20to%20NONE.&project-name=copilotkit-presentation-demo&repository-name=copilotkit-presentation-demo)
 
+## How to Build: a Text-to-PowerPoint Application with CopilotKit
+
+Learn how to create a powerful Text-to-PowerPoint application using CopilotKit. This tutorial will guide you through the process step-by-step.
+
+Tutorial: [How to Build: a Text-to-PowerPoint Application with CopilotKit](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
+
 ## Getting Started
 
 ### 1. install the needed package:
@@ -68,10 +74,12 @@ Have a look at `app/page.tsx` to see how the voice capabilities are configured.
 
 ## Learn More
 
-Tutorial: [How to Build: a Text-to-PowerPoint Application with CopilotKit](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
-
 To learn more about CopilotKit, take a look at the following resources:
 
 - [CopilotKit Documentation](https://docs.copilotkit.ai/getting-started/quickstart-chatbot) - learn about CopilotKit features and API.
 - [GitHub](https://github.com/CopilotKit/CopilotKit) - Check out the CopilotKit GitHub repository.
 - [Discord](https://discord.gg/6dffbvGU3D) - Join the CopilotKit Discord community.
+
+## Contact
+
+atai `<at>` copilotkit.ai
