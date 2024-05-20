@@ -1,4 +1,4 @@
-<img src="./public/screenshot.png" alt="Presentation Demo Screenshot" width="500px">
+<img src="./public/screenshot.png" alt="Presentation Demo Screenshot" width="600px">
 
 This is a demo that showcases using CopilotKit to build a voice driven PowerPoint like web app.
 
