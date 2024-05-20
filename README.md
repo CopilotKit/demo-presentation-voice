@@ -2,8 +2,10 @@ This is a demo that showcases using CopilotKit to build a voice driven PowerPoin
 
 ## Run the live demo
 
+Want to see CopilotKit in action? Click the button below to try the live demo.
+
 <a href="https://presentation-demo-mu.vercel.app">
-  <img src="./public/run-demo-cta.png" alt="Run the live demo" width="200px">
+  <img src="./public/run-demo-cta.png" alt="Run the live demo" width="250px">
 </a>
 
 ## Deploy with Vercel
@@ -13,6 +15,8 @@ To deploy with Vercel, click the button below:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCopilotKit%2Fpresentation-demo&env=NEXT_PUBLIC_COPILOT_CLOUD_API_KEY,TAVILY_API_KEY,OPENAI_API_KEY&envDescription=By%20setting%20the%20TAVILY_API_KEY%2C%20you%20control%20whether%20the%20web%20search%20capabilities%20are%20enabled.%20Set%20it%20to%20NONE%20to%20disable%20this%20feature.%20To%20use%20TTS%2C%20set%20OPENAI_API%20key%2C%20otherwise%20set%20it%20to%20NONE.&project-name=copilotkit-presentation-demo&repository-name=copilotkit-presentation-demo)
 
 ## Getting Started
+
+<img src="./public/screenhot.png" alt="Presentation Demo Screenshot" width="500px">
 
 ### 1. install the needed package:
 
@@ -63,6 +67,8 @@ Have a look at `app/page.tsx` to see how the voice capabilities are configured.
 ```
 
 ## Learn More
+
+Tutorial: [How to Build: a Text-to-PowerPoint Application with CopilotKit](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
 
 To learn more about CopilotKit, take a look at the following resources:
 
