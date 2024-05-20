@@ -1,5 +1,9 @@
 This is a demo that showcases using CopilotKit to build a voice driven PowerPoint like web app.
 
+## Run the live demo
+
+[![Run the live demo](./public/run-demo-cta.png)](https://presentation-demo-mu.vercel.app)
+
 ## Deploy with Vercel
 
 To deploy with Vercel, click the button below:
