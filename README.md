@@ -64,8 +64,6 @@ Have a look at `app/page.tsx` to see how the voice capabilities are configured.
 
 3. In `route.ts`, see how the backend-running `researchAction` is defined against the `research.ts` agent, powered by LangChain's LangGraph and by Tavily research API.
 
-```
-
 ## Learn More
 
 Tutorial: [How to Build: a Text-to-PowerPoint Application with CopilotKit](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
@@ -75,4 +73,3 @@ To learn more about CopilotKit, take a look at the following resources:
 - [CopilotKit Documentation](https://docs.copilotkit.ai/getting-started/quickstart-chatbot) - learn about CopilotKit features and API.
 - [GitHub](https://github.com/CopilotKit/CopilotKit) - Check out the CopilotKit GitHub repository.
 - [Discord](https://discord.gg/6dffbvGU3D) - Join the CopilotKit Discord community.
-```
