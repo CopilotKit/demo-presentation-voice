@@ -16,7 +16,7 @@ To deploy with Vercel, click the button below:
 
 ## Getting Started
 
-<img src="./public/screenhot.png" alt="Presentation Demo Screenshot" width="500px">
+<img src="./public/screenshot.png" alt="Presentation Demo Screenshot" width="500px">
 
 ### 1. install the needed package:
 
