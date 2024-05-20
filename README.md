@@ -1,10 +1,10 @@
-<img src="./public/screenshot.png" alt="Presentation Demo Screenshot" width="600px">
-
 This is a demo that showcases using CopilotKit to build a voice driven PowerPoint like web app.
 
 ## Run the live demo
 
 Want to see CopilotKit in action? Click the button below to try the live demo.
+
+<img src="./public/screenshot.png" alt="Presentation Demo Screenshot" width="600px">
 
 <a href="https://presentation-demo-mu.vercel.app">
   <img src="./public/run-demo-cta.png" alt="Run the live demo" width="250px">
